@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.9 seconds
-Output:
 # Piętka — strona piekarni rzemieślniczej
 
 Statyczna, responsywna strona koncepcyjna przygotowana dla lokalu Piętka przy ul. Królowej Jadwigi 146 w Krakowie.
