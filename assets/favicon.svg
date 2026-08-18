@@ -1,0 +1,9 @@
+Exit code: 0
+Wall time: 0.9 seconds
+Output:
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="32" fill="#241d18"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#f8f4ea" stroke-width="2"/>
+  <text x="32" y="43" fill="#f8f4ea" font-family="Georgia,serif" font-size="34" font-style="italic" font-weight="700" text-anchor="middle">5</text>
+</svg>
+
