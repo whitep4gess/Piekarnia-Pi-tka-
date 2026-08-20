@@ -113,6 +113,7 @@ button { font: inherit; }
 .contact-grid p { margin: 14px 0 0; }
 .contact-grid a { text-underline-offset: 4px; }
 .hours-note { margin: 16px 0 0; font-size: .68rem; opacity: .75; }
+.demo-button { cursor: default; user-select: none; }
 .locations { padding: 120px clamp(28px, 4vw, 72px); background: var(--butter); color: var(--ink); }
 .locations ol { margin: 42px 0 0; padding: 0; list-style: none; border-top: 1px solid var(--ink); }
 .locations li { padding: 22px 0; display: grid; grid-template-columns: 38px 1fr; gap: 12px; border-bottom: 1px solid rgba(36,29,24,.45); }

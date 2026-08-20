@@ -1,6 +1,6 @@
-# Piętka — strona piekarni rzemieślniczej
+# Przykładowa strona piekarni rzemieślniczej
 
-Statyczna, responsywna strona koncepcyjna przygotowana dla lokalu Piętka przy ul. Królowej Jadwigi 146 w Krakowie.
+Neutralny, statyczny i responsywny szablon strony demonstracyjnej dla piekarni lub niewielkiego bistro.
 
 ## Uruchomienie
 
@@ -8,11 +8,12 @@ Otwórz `index.html` bezpośrednio w przeglądarce albo uruchom dowolny lokalny 
 
 ## Zawartość
 
-- brak formularzy i zewnętrznych skryptów śledzących,
-- kontakt przez telefon, e-mail oraz Google Maps,
+- brak nazw marek i prawdziwych danych kontaktowych,
+- brak formularzy, zewnętrznych skryptów śledzących i aktywnych odnośników do usług,
+- przykładowe pozycje menu i ceny,
 - spokojny, przyklejony nagłówek bez animacji i skoków,
 - cztery autorskie fotografie wygenerowane specjalnie dla projektu,
 - responsywny układ i dostępna nawigacja klawiaturą.
 
-Godziny, ceny i dostępność produktów należy potwierdzić przed publikacją produkcyjną.
+Przed użyciem produkcyjnym należy uzupełnić własną nazwę, treści, ofertę i dane kontaktowe.
 
